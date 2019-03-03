@@ -1,4 +1,7 @@
 # UserSpice4
+
+## modified with API folder to perform user authentication and authorization
+
  +UserSpice 4 is a complete OOP PDO PHP User Management System.  Full details, documentation, walkthroughs, and forums can be found at UserSpice.com.
  +
  +Ideally the git repository is for tracking changes.  All downloads should probably go through UserSpice.com where they are properly packaged for installtion. 
